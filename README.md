@@ -29,7 +29,7 @@ Here are some ideas to get you started:
    </br>
    
    
- ## 💻 Techincal Skills:
+ ## 💻 Techincal Skills
   
   
   </br>
