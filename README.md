@@ -51,7 +51,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acroospulle&theme=radical&layout=compact)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=acroospulle&theme=radical) 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acroospulle&theme=radical&hide_border=false">
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=acroospulle"> 
+ <img src="https://github-readme-stats.vercel.app/api/theme=radical&username=acroospulle"> 
  </p>
 
 
