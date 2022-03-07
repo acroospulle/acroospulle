@@ -51,17 +51,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acroospulle&theme=radical&layout=compact)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=acroospulle&theme=radical) 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acroospulle&theme=radical&hide_border=false">
- <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=acroospulle"> -->
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=acroospulle"> 
  </p>
 
-<!--![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=acroospulle)-->
-    
+
 
 <!--
 **acroospulle/acroospulle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -70,6 +67,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=acroospulle)
-    
+![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=acroospulle)  
 -->
