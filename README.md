@@ -16,9 +16,11 @@
    </br>
    
    
-   ## Other Projects
+   ## ⭐️ Other Projects
    
    [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?theme=radical&layout=compact&logo=codepen&logoColor=white&color=red)](https://codepen.io/acroospulle)
+
+</br>
 
 
 
@@ -47,9 +49,11 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Cocoapods](https://img.shields.io/badge/cocoapods-FA2A02?style=for-the-badge&logo=cocoapods&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
+</br>
    
-   ## ⭐️ GitHub Stats
+   
+   
+   ##  📈 GitHub Stats
    
    
 <p align="center">
