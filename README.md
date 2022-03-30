@@ -60,8 +60,7 @@
    
 <p align="center">
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acroospulle&theme=radical&layout=compact)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=acroospulle&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acroospulle&theme=radical&layout=compact) 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acroospulle&theme=radical&hide_border=false">
  </p>
 
@@ -79,5 +78,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=acroospulle)  
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=acroospulle&theme=radical)
 -->
 
