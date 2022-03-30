@@ -16,16 +16,6 @@
    </br>
    
    
-   ## ⭐️ Other Projects
-   
-   [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?theme=radical&layout=compact&logo=codepen&logoColor=white&color=red)](https://codepen.io/acroospulle)
-
-
-
-</br>
-
-
-
 ## 💻 Techincal Skills
   
   
@@ -52,6 +42,27 @@
 ![Cocoapods](https://img.shields.io/badge/cocoapods-FA2A02?style=for-the-badge&logo=cocoapods&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 </br>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  
+  ## ⭐️ Other Projects
+   
+   [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?theme=radical&layout=compact&logo=codepen&logoColor=white&color=red)](https://codepen.io/acroospulle)
+
+
+
+</br>
+
+
+
    
    
    
