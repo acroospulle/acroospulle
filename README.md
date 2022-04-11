@@ -41,24 +41,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 </br>
-   
-   
-   
-   
-   
-   
-   
-   
-   
-  
-  
-  ## ⭐️ Other Projects
-   
-   [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?theme=radical&layout=compact&logo=codepen&logoColor=white&color=red)](https://codepen.io/acroospulle)
-
-
-
-</br>
 
 
 
