@@ -58,6 +58,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acroospulle&theme=radical&layout=compact) 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=acroospulle&theme=radical)
-  
+  ![My Github Streaks] (https://github-readme-streak-stats.herokuapp.com/?user={acroospulle})
  </p>
  
