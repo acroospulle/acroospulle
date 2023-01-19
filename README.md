@@ -72,8 +72,7 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=acroospulle&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acroospulle&theme=radical&layout=compact)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=acroospulle&" alt="acroospulle" /></p>
-
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=acroospulle&theme=radical)
 
 
 
