@@ -74,7 +74,7 @@ Here are some ideas to get you started:
    ##  📈 GitHub Stats
 
 
-<img src ="https://github-readme-stats.vercel.app/api?username=acroospulle&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs"> 
+<img src ="https://github-readme-stats.vercel.app/api?username=acroospulle&show_icons=true&theme=radical&hide_border=true"> 
 
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=acroospulle&theme=radical">
 
