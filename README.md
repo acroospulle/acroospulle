@@ -73,15 +73,20 @@ Here are some ideas to get you started:
 
    ##  📈 GitHub Stats
 
+<p align="left">
 
-<img src ="https://github-readme-stats.vercel.app/api?username=acroospulle&show_icons=true&theme=radical&hide_border=true"> 
+<img src ="https://github-readme-activity-graph.cyclic.app/graph?username=acroospulle&theme=radical"> 
 
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=acroospulle&theme=radical">
+<img src ="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acroospulle&theme=radical">
+
+
 
  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=acroospulle&theme=radical">
 
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=acroospulle&theme=radical&layout=compact">
 
 
+ </p>
 
 
 
